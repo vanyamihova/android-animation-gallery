@@ -1,4 +1,4 @@
-# homework-lecture-8.2
+# Gallery with animation
 
 Simple Gallery
 
